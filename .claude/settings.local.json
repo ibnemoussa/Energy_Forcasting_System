@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install tailwindcss@^3 postcss autoprefixer recharts framer-motion lucide-react clsx tailwind-merge)",
+      "Bash(npx tailwindcss init -p)",
+      "Bash(npm run build)",
+      "Bash(pip install -r requirements.txt)",
+      "Bash(py -3.12 --version)",
+      "Bash(py -3.11 --version)",
+      "Bash(py -3.10 --version)",
+      "Bash(py -3.9 --version)",
+      "Bash(conda run -n ML_2 python --version)",
+      "Bash(conda run -n ML_2 pip show tensorflow)",
+      "Bash(conda run -n ML_2 pip show djangorestframework)"
+    ]
+  }
+}
