@@ -11,7 +11,8 @@
       "Bash(py -3.9 --version)",
       "Bash(conda run -n ML_2 python --version)",
       "Bash(conda run -n ML_2 pip show tensorflow)",
-      "Bash(conda run -n ML_2 pip show djangorestframework)"
+      "Bash(conda run -n ML_2 pip show djangorestframework)",
+      "Bash(python3 -c \":*)"
     ]
   }
 }
